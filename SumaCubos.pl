@@ -1,0 +1,1 @@
+sumacubos(X,Y,Z):- Z is X*X*X + Y*Y*Y.
